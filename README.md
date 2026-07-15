@@ -27,4 +27,4 @@ Simply run the script with the target IP address. You can optionally supply a cu
 
 ### Syntax:
 ```bash
-python3 ssh_audit.py <IP_ADDRESS> [PORT]
+python3 regreSSHion.py <IP_ADDRESS> [PORT]
